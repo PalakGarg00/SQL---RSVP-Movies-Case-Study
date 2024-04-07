@@ -14,15 +14,15 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 
 ### Some tips before starting the assignment
 
-Go through the data thoroughly before starting with the assignment. It will give you a good sense of what all the columns represent which is a good practice to follow before proceeding with the analysis. You should download the database script and run it in your local system.
-Read through each of the instructions carefully, identify the task to be performed, and only then proceed to write the required code. Don’t perform any incorrect analysis or look for information that isn’t required for the assignment. The solution output should be in the expected format if given in the question.
-Try using appropriate aliases for the variable names. Avoid using names: ABC, abc, etc.
-Always try to write optimized codes. Use appropriate tables and joins as per the questions asked.
-There are some checkpoints given in the question SQL script provided. Keep your eye out for them as they're useful pieces of information you can use to check if the result you have obtained after performing a particular task is correct or not.
+1. Go through the data thoroughly before starting with the assignment. It will give you a good sense of what all the columns represent which is a good practice to follow before proceeding with the analysis. You should download the database script and run it in your local system.
+2. Read through each of the instructions carefully, identify the task to be performed, and only then proceed to write the required code. Don’t perform any incorrect analysis or look for information that isn’t required for the assignment. The solution output should be in the expected format if given in the question.
+3. Try using appropriate aliases for the variable names. Avoid using names: ABC, abc, etc.
+4. Always try to write optimized codes. Use appropriate tables and joins as per the questions asked.
+5. There are some checkpoints given in the question SQL script provided. Keep your eye out for them as they're useful pieces of information you can use to check if the result you have obtained after performing a particular task is correct or not.
 
 
 
 ### Submissions Required
-> SQL Script File: The question SQL script file given with the final codes (answers) written in it. This will be your solution file.
+1. SQL Script File: The question SQL script file given with the final codes (answers) written in it. This will be your solution file.
 
-> Executive Summary: Write the executive summary consisting of the important insights derived from the data and some recommendations to be given to RSVP movies for their project. Make sure this summary doesn't exceed 250 words. Save this writeup as a PDF.
+2. Executive Summary: Write the executive summary consisting of the important insights derived from the data and some recommendations to be given to RSVP movies for their project. Make sure this summary doesn't exceed 250 words. Save this writeup as a PDF.
